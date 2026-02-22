@@ -48,7 +48,7 @@ def create_driver(browser_config=None):
     })
 
     driver = webdriver.Remote(
-        command_executor=f"https://sohamshivpuje_mMOpY2:eswHZxTxQxDSKSyx4uhB@hub-cloud.browserstack.com/wd/hub",
+        command_executor=f"https://{USERNAME}:{ACCESSKEY}@hub-cloud.browserstack.com/wd/hub",
         options=options
     )
 
