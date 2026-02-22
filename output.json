@@ -1,0 +1,424 @@
+{
+    "Chrome Windows Test": [
+        {
+            "title": "Una sacudida necesaria",
+            "translated_title": "A necessary shake",
+            "content": "La nueva llamada para unir a la izquierda española es positiva pero está aún lejos de ser un proyecto político viable",
+            "translated_content": "The new call to unite the Spanish left is positive but it is still far from being a viable political project",
+            "repeated_words": {
+                "the": 2,
+                "is": 2
+            }
+        },
+        {
+            "title": "Audacia contra la crisis de vivienda",
+            "translated_title": "Audacity against the housing crisis",
+            "content": "El Gobierno de Cataluña muestra el necesario atrevimiento para intervenir en el principal problema de los españoles",
+            "translated_content": "The Government of Catalonia shows the necessary audacity to intervene in the main problem of the Spanish people",
+            "repeated_words": {
+                "the": 4,
+                "of": 2
+            }
+        },
+        {
+            "title": "No soy tu ‘boomer’",
+            "translated_title": "I'm not your 'boomer'",
+            "content": "Entretenidos con el cuentecillo del enfrentamiento entre generaciones, no entendemos que la sociedad se divide, sobre todo, entre privilegiados y desposeídos",
+            "translated_content": "Entertained with the story of the confrontation between generations, we do not understand that society is divided, above all, between the privileged and the dispossessed.",
+            "repeated_words": {
+                "the": 4,
+                "between": 2
+            }
+        },
+        {
+            "title": "Cae la nieve y los corderitos nacen",
+            "translated_title": "The snow falls and the lambs are born",
+            "content": "Portugal votó contra la ultraderecha por el miedo de un pueblo que no es rico ante la perspectiva de una pobreza peor: perder la libertad",
+            "translated_content": "Portugal voted against the extreme right because of the fear of a people who are not rich at the prospect of worse poverty: losing freedom",
+            "repeated_words": {
+                "the": 3,
+                "of": 3
+            }
+        }
+    ],
+    "Firefox Windows Test": [
+        {
+            "title": "Una sacudida necesaria",
+            "translated_title": "A necessary shake",
+            "content": "La nueva llamada para unir a la izquierda española es positiva pero está aún lejos de ser un proyecto político viable",
+            "translated_content": "The new call to unite the Spanish left is positive but it is still far from being a viable political project",
+            "repeated_words": {
+                "the": 2,
+                "is": 2
+            }
+        },
+        {
+            "title": "Audacia contra la crisis de vivienda",
+            "translated_title": "Audacity against the housing crisis",
+            "content": "El Gobierno de Cataluña muestra el necesario atrevimiento para intervenir en el principal problema de los españoles",
+            "translated_content": "The Government of Catalonia shows the necessary audacity to intervene in the main problem of the Spanish people",
+            "repeated_words": {
+                "the": 4,
+                "of": 2
+            }
+        },
+        {
+            "title": "No soy tu ‘boomer’",
+            "translated_title": "I'm not your 'boomer'",
+            "content": "Entretenidos con el cuentecillo del enfrentamiento entre generaciones, no entendemos que la sociedad se divide, sobre todo, entre privilegiados y desposeídos",
+            "translated_content": "Entertained with the story of the confrontation between generations, we do not understand that society is divided, above all, between the privileged and the dispossessed.",
+            "repeated_words": {
+                "the": 4,
+                "between": 2
+            }
+        }
+    ],
+    "Edge Windows Test": [
+        {
+            "title": "Una sacudida necesaria",
+            "translated_title": "A necessary shake",
+            "content": "La nueva llamada para unir a la izquierda española es positiva pero está aún lejos de ser un proyecto político viable",
+            "translated_content": "The new call to unite the Spanish left is positive but it is still far from being a viable political project",
+            "repeated_words": {
+                "the": 2,
+                "is": 2
+            }
+        },
+        {
+            "title": "Audacia contra la crisis de vivienda",
+            "translated_title": "Audacity against the housing crisis",
+            "content": "El Gobierno de Cataluña muestra el necesario atrevimiento para intervenir en el principal problema de los españoles",
+            "translated_content": "The Government of Catalonia shows the necessary audacity to intervene in the main problem of the Spanish people",
+            "repeated_words": {
+                "the": 4,
+                "of": 2
+            }
+        },
+        {
+            "title": "No soy tu ‘boomer’",
+            "translated_title": "I'm not your 'boomer'",
+            "content": "Entretenidos con el cuentecillo del enfrentamiento entre generaciones, no entendemos que la sociedad se divide, sobre todo, entre privilegiados y desposeídos",
+            "translated_content": "Entertained with the story of the confrontation between generations, we do not understand that society is divided, above all, between the privileged and the dispossessed.",
+            "repeated_words": {
+                "the": 4,
+                "between": 2
+            }
+        },
+        {
+            "title": "Cae la nieve y los corderitos nacen",
+            "translated_title": "The snow falls and the lambs are born",
+            "content": "Portugal votó contra la ultraderecha por el miedo de un pueblo que no es rico ante la perspectiva de una pobreza peor: perder la libertad",
+            "translated_content": "Portugal voted against the extreme right because of the fear of a people who are not rich at the prospect of worse poverty: losing freedom",
+            "repeated_words": {
+                "the": 3,
+                "of": 3
+            }
+        }
+    ],
+    "Chrome Mac Test": [
+        {
+            "title": "Una sacudida necesaria",
+            "translated_title": "A necessary shake",
+            "content": "La nueva llamada para unir a la izquierda española es positiva pero está aún lejos de ser un proyecto político viable",
+            "translated_content": "The new call to unite the Spanish left is positive but it is still far from being a viable political project",
+            "repeated_words": {
+                "the": 2,
+                "is": 2
+            }
+        },
+        {
+            "title": "Audacia contra la crisis de vivienda",
+            "translated_title": "Audacity against the housing crisis",
+            "content": "El Gobierno de Cataluña muestra el necesario atrevimiento para intervenir en el principal problema de los españoles",
+            "translated_content": "The Government of Catalonia shows the necessary audacity to intervene in the main problem of the Spanish people",
+            "repeated_words": {
+                "the": 4,
+                "of": 2
+            }
+        },
+        {
+            "title": "No soy tu ‘boomer’",
+            "translated_title": "I'm not your 'boomer'",
+            "content": "Entretenidos con el cuentecillo del enfrentamiento entre generaciones, no entendemos que la sociedad se divide, sobre todo, entre privilegiados y desposeídos",
+            "translated_content": "Entertained with the story of the confrontation between generations, we do not understand that society is divided, above all, between the privileged and the dispossessed.",
+            "repeated_words": {
+                "the": 4,
+                "between": 2
+            }
+        },
+        {
+            "title": "Cae la nieve y los corderitos nacen",
+            "translated_title": "The snow falls and the lambs are born",
+            "content": "Portugal votó contra la ultraderecha por el miedo de un pueblo que no es rico ante la perspectiva de una pobreza peor: perder la libertad",
+            "translated_content": "Portugal voted against the extreme right because of the fear of a people who are not rich at the prospect of worse poverty: losing freedom",
+            "repeated_words": {
+                "the": 3,
+                "of": 3
+            }
+        }
+    ],
+    "Safari Mac Test": [
+        {
+            "title": "Una sacudida necesaria",
+            "translated_title": "A necessary shake",
+            "content": "La nueva llamada para unir a la izquierda española es positiva pero está aún lejos de ser un proyecto político viable Cuatro partidos representativos de la izquierda española que no se identifica con el PSOE escenificaron ayer en el Círculo de Bellas Artes de Madrid una propuesta de unidad electoral que, todavía sin nombre, programa o liderazgo claros, aspira a maximizar el impacto electoral de los votos en este espacio político. El mitin conjunto de Movimiento Sumar, Izquierda Unida, Comunes y Más Madrid se presentó bajo el lema “Un paso al frente” y reclamó la unidad de las fuerzas de izquierda para contrarrestar una mayoría de PP y Vox que las encuestas dan por segura. En la presentación no estuvo la vicepresidenta Yolanda Díaz, la persona en torno a la cual se articuló el último proyecto de unificación electoral de la izquierda en 2023 bajo la marca Sumar, que comparten los cuatro convocantes. Los partidos de ese paraguas electoral, que logró 31 diputados, parecen resignados al hecho de que el carisma de Díaz está agotado para liderar un nuevo proyecto, aunque ella quiso dejar claro que su identificación con el mismo es completa. Esto abre la primera incógnita sobre el futuro de lo que por ahora es una reconfiguración de Sumar, pero que ambiciona atraer a más partidos. Los simpatizantes escucharon ayer a Lara Hernández (Sumar), Antonio Maíllo (Izquierda Unida), la ministra Mónica García y Rita Maestre (Más Madrid) o el ministro Ernest Urtasun (Comunes) transmitir urgencia y entusiasmo. Ninguno está en estos momentos en posición de reclamar el cartel electoral. Los partidos insisten en que esa no es la prioridad, pero llegado el momento de pedir el voto será muy difícil movilizar sin un liderazgo claro como lo tienen los demás partidos. El acto se producía apenas tres días después de que Gabriel Rufián, diputado de ERC y uno de los políticos progresistas más populares de España, escenificara una charla con público junto al diputado de Más Madrid Emilio Delgado. Este acto informal y el de este sábado, preparado durante meses, han venido a mostrar que existe una demanda de renovación en la izquierda española y que esta se combina con una sensación de urgencia ante el ascenso de la ultraderecha que interpela no solo al espacio tradicional a la izquierda del PSOE, sino también a la izquierda nacionalista.",
+            "translated_content": "The new call to unite the Spanish left is positive but is still far from being a viable political project Four representative parties of the Spanish left that do not identify with the PSOE staged yesterday at the Círculo de Bellas Artes in Madrid a proposal for electoral unity that, still without a clear name, program or leadership, aspires to maximize the electoral impact of the votes in this political space. The joint rally of Movimiento Sumar, Izquierda Unida, Comunes and Más Madrid was presented under the slogan “One step forward” and demanded the unity of the leftist forces to counter a majority of PP and Vox that the polls take for granted. Vice President Yolanda Díaz, the person around whom the last electoral unification project of the left was articulated in 2023 under the Sumar brand, shared by the four conveners, was not present at the presentation. The parties of that electoral umbrella, which achieved 31 deputies, seem resigned to the fact that Díaz's charisma is exhausted to lead a new project, although she wanted to make it clear that her identification with it is complete. This opens the first question about the future of what for now is a reconfiguration of Sumar, but which aims to attract more parties. Yesterday, supporters heard Lara Hernández (Sumar), Antonio Maíllo (Izquierda Unida), Minister Mónica García and Rita Maestre (Más Madrid) and Minister Ernest Urtasun (Comunes) transmit urgency and enthusiasm. No one is currently in a position to claim the electoral poster. The parties insist that this is not the priority, but when the time comes to ask for the vote, it will be very difficult to mobilize without clear leadership like the other parties have. The event took place just three days after Gabriel Rufián, ERC deputy and one of the most popular progressive politicians in Spain, staged a talk with the public alongside Más Madrid deputy Emilio Delgado. This informal event and this Saturday's event, prepared for months, have come to show that there is a demand for renewal on the Spanish left and that this is combined with a sense of urgency in the face of the rise of the extreme right that challenges not only the traditional space to the left of the PSOE, but also the nationalist left.",
+            "repeated_words": {
+                "the": 39,
+                "new": 2,
+                "to": 12,
+                "spanish": 3,
+                "left": 6,
+                "is": 9,
+                "but": 4,
+                "still": 2,
+                "a": 10,
+                "political": 2,
+                "project": 3,
+                "four": 2,
+                "parties": 5,
+                "of": 14,
+                "that": 10,
+                "not": 4,
+                "with": 4,
+                "psoe": 2,
+                "staged": 2,
+                "yesterday": 2,
+                "at": 2,
+                "in": 6,
+                "madrid": 4,
+                "for": 6,
+                "electoral": 5,
+                "unity": 2,
+                "without": 2,
+                "clear": 3,
+                "leadership": 2,
+                "this": 6,
+                "space": 2,
+                "sumar": 4,
+                "izquierda": 2,
+                "unida": 2,
+                "comunes": 2,
+                "and": 9,
+                "más": 3,
+                "was": 3,
+                "under": 2,
+                "one": 3,
+                "díaz": 2,
+                "which": 2,
+                "s": 2,
+                "it": 3,
+                "minister": 2,
+                "urgency": 2,
+                "have": 2,
+                "event": 3,
+                "deputy": 2
+            }
+        },
+        {
+            "title": "Audacia contra la crisis de vivienda",
+            "translated_title": "Audacity against the housing crisis",
+            "content": "El Gobierno de Cataluña muestra el necesario atrevimiento para intervenir en el principal problema de los españoles Cataluña será la primera comunidad en atacar directamente la especulación sobre la vivienda. El Gobierno de Salvador Illa ha pactado con los comunes limitar las adquisiciones de pisos por parte de grandes y pequeños propietarios. Como regla general, empresas y particulares podrán hacerse con casas para fijar su domicilio y su segunda residencia. A partir de ahí, los grandes patrimonios podrán comprar edificios enteros, y los pequeños, entre dos y tres viviendas más. En todos los casos, estas deberán destinarse a alquiler habitual respetando los precios máximos fijados. La patronal catalana ha tildado la medida de “filocomunista”, mientras que el Sindicato de Inquilinos la ha criticado por considerar que debería haber ido más lejos. El precio de la vivienda, que se ha más que duplicado desde 2014, está teniendo consecuencias dramáticas para la economía del día a día de la clase media española. Se come las subidas de sueldo, limita la movilidad, agranda las bolsas de precariedad y afecta a todos los gastos de las familias. La subida es tan pronunciada que los sueldos bajos no pueden ahorrar para comprar. Los que viven de alquiler son expulsados de su barrio en cuanto llega una renovación. Es el principal problema de los españoles, según el CIS. Ante esa emergencia, el Gobierno catalán ha adoptado varias medidas, muchas de ellas hasta ahora inéditas. Ha fijado límites a los precios de las rentas en las zonas tensionadas, ha exhibido mano dura con los alquileres turísticos y de temporada y ha lanzado un ambicioso plan para construir 50.000 viviendas protegidas hasta 2030. Ahora da un paso más al tratar de frenar la especulación, convirtiendo a Cataluña en un laboratorio de políticas de vivienda. Las medidas han dado ya algunos resultados alentadores, como la contención en los alquileres o la salida del mercado residencial de algunos grandes fondos, que ha dado más espacio a los ciudadanos para comprar. La práctica dirá si esas políticas han sido acertadas o no, pero por ahora Cataluña es la única comunidad que se ha atrevido a hacer uso de sus competencias para hacer frente al problema. Los gobiernos regionales del PP directamente boicotean la ley de vivienda estatal.",
+            "translated_content": "The Government of Catalonia shows the necessary audacity to intervene in the main problem of Spaniards Catalonia will be the first community to directly attack speculation on housing. The Government of Salvador Illa has agreed with the commons to limit the acquisition of apartments by large and small owners. As a general rule, companies and individuals may purchase houses to establish their domicile and second residence. From there, large estates will be able to buy entire buildings, and small estates, between two and three more homes. In all cases, these must be used for regular rental, respecting the maximum prices set. The Catalan employers' association has called the measure “philo-communist”, while the Tenants' Union has criticized it for considering that it should have gone further. House prices, which have more than doubled since 2014, are having dramatic consequences for the day-to-day economy of the Spanish middle class. It eats into salary increases, limits mobility, increases pockets of precariousness and affects all family expenses. The rise is so steep that low-income earners cannot save to buy. Those who live in rent are expelled from their neighborhood as soon as a renovation comes. It is the main problem of Spaniards, according to the CIS. Faced with this emergency, the Catalan Government has adopted several measures, many of them hitherto unprecedented. It has set limits on rental prices in stressed areas, has shown a strong hand with tourist and seasonal rentals and has launched an ambitious plan to build 50,000 subsidized homes by 2030. Now it is taking another step in trying to stop speculation, turning Catalonia into a laboratory for housing policies. The measures have already given some encouraging results, such as the containment of rents or the exit of some large funds from the residential market, which has given citizens more space to buy. Practice will tell if these policies have been successful or not, but for now Catalonia is the only community that has dared to use its powers to confront the problem. The regional governments of the PP directly boycott the state housing law.",
+            "repeated_words": {
+                "the": 26,
+                "government": 3,
+                "of": 11,
+                "catalonia": 4,
+                "to": 13,
+                "in": 5,
+                "main": 2,
+                "problem": 3,
+                "spaniards": 2,
+                "will": 3,
+                "be": 3,
+                "community": 2,
+                "directly": 2,
+                "speculation": 2,
+                "on": 2,
+                "housing": 3,
+                "has": 9,
+                "with": 3,
+                "by": 2,
+                "large": 3,
+                "and": 8,
+                "small": 2,
+                "as": 4,
+                "a": 4,
+                "their": 2,
+                "from": 3,
+                "estates": 2,
+                "buy": 3,
+                "more": 3,
+                "homes": 2,
+                "all": 2,
+                "these": 2,
+                "for": 5,
+                "rental": 2,
+                "prices": 3,
+                "set": 2,
+                "catalan": 2,
+                "it": 6,
+                "that": 3,
+                "have": 4,
+                "which": 2,
+                "are": 2,
+                "day": 2,
+                "into": 2,
+                "increases": 2,
+                "limits": 2,
+                "is": 4,
+                "measures": 2,
+                "now": 2,
+                "policies": 2,
+                "given": 2,
+                "some": 2,
+                "or": 2
+            }
+        },
+        {
+            "title": "No soy tu ‘boomer’",
+            "translated_title": "I'm not your 'boomer'",
+            "content": "Entretenidos con el cuentecillo del enfrentamiento entre generaciones, no entendemos que la sociedad se divide, sobre todo, entre privilegiados y desposeídos Cada vez que escucho a alguien que nació entre los cincuenta o los sesenta autodenominarse boomer me da una mezcla de rabia y vergüenza. Sería como llamar “mi chico” a un marido que tiene 70 años. Las hay. La obediencia con la que asumimos términos llegados del imperio da una idea de lo difícil que nos resulta crear nuestro propio lenguaje y asumir, como dice el ensayista Pankaj Mishra, que el momento de la desamericanización ha llegado. Así lo e... xpresa Mishra: “Fueron los estadounidenses, con toda su influencia, quienes dieron prioridad a la felicidad individual por encima del bien común y relegaron los viejos debates sobre el propósito y el significado supremos de la existencia humana al ámbito de la vida privada de los ciudadanos”. Aquel influjo estadounidense sigue alumbrándonos y haciéndonos creer que su cultura, incluyendo en esta las vanas aspiraciones, nos define. Mientras observamos a una sociedad que se resquebraja y repetimos aquello del fin del sueño americano, seguimos prisioneros de su música, su cine, su literatura y pensamiento, su orden moral. Palabras prestadas brotan de la boca de nuestros expertos hasta que consiguen, de tanto machacar, que sean las que utilicemos para nombrar los movimientos sociales. Nadie se planteó que hubiera una alternativa a woke, de tal manera que durante un tiempo los pioneros en usar el término advertían al público de su origen, tan incrustado por cierto en la historia americana, para luego explicarnos que wokes éramos los nuevos progresistas, dado que los progres ya habían caducado. Por su parte, el adversario asumió encantado el término como definición denigratoria, y todos tan contentos. Lógico que hayamos sido también diligentes al adoptar esa afición tan americana de clasificar a los seres humanos por generaciones. Cuando vivía en EE UU, no dejaba de fascinarme la naturalidad con la que la población, obediente, se autosegregaba. Los viejos, que ya no producían, se iban a vivir a lugares adaptados para personas que, resignadas a su inutilidad y falta de atractivo, convivían con otros de su especie. Como los elefantes, se situaban a un paso del cementerio. Entendí la fascinación que provoca al extranjero (que no alien) comprobar que en países como el nuestro hay ancianas que meriendan en las cafeterías mezcladas con otros seres vivos. Luego se van a buscar a sus nietos al colegio. Sin guardar la reverencia de los países asiáticos hacia los mayores, aún nos sirven para algo. Pero la distinción narcisista ha llamado a nuestra puerta, cómo no, y así cada día se añade una letra distinta para denominar la generación de los que acaban de nacer. Dada la baja tasa de natalidad llegará un día en que habrá una letra por cada recién nacido. A falta de casa, que tenga casilla (sociológica).",
+            "translated_content": "Entertained with the story of the confrontation between generations, we do not understand that society is divided, above all, between the privileged and the dispossessed. Every time I hear someone who was born between the fifties or sixties call themselves a boomer, it makes me feel a mixture of anger and shame. It would be like calling a 70-year-old husband “my boy.” There are. The obedience with which we assume terms arrived from the empire gives an idea of ​​how difficult it is for us to create our own language and assume, as the essayist Pankaj Mishra says, that the moment of de-Americanization has arrived. This is how Mishra puts it: “It was the Americans, with all their influence, who prioritized individual happiness over the common good and relegated the old debates about the supreme purpose and meaning of human existence to the realm of citizens' private lives.” That American influence continues to enlighten us and make us believe that its culture, including vain aspirations, defines us. While we observe a society that is breaking down and we repeat that of the end of the American dream, we remain prisoners of its music, its cinema, its literature and thought, its moral order. Borrowed words spring from the mouths of our experts until they manage, by mashing so much, to become the ones we use to name social movements. Nobody considered that there was an alternative to woke, so that for a time the pioneers in using the term warned the public of its origin, so embedded in American history, and then explained to us that wokes were the new progressives, given that the progressives had already expired. For his part, the opponent delightedly assumed the term as a denigrating definition, and everyone was so happy. It is logical that we have also been diligent in adopting that very American hobby of classifying human beings by generations. When I lived in the United States, I never ceased to be fascinated by the naturalness with which the population, obediently, self-segregated. The old people, who were no longer producing, went to live in places adapted for people who, resigned to their uselessness and lack of attractiveness, lived with others of their kind. Like the elephants, they were located a step away from the cemetery. I understood the fascination that foreigners (who do not alienate) experience when they see that in countries like ours there are old women who have a snack in cafeterias mixed with other living beings. Then they go to pick up their grandchildren from school. Without keeping the reverence of Asian countries towards the elderly, they still serve some purpose to us. But the narcissistic distinction has knocked on our door, of course, and so every day a different letter is added to name the generation of those who have just been born. Given the low birth rate, there will come a day when there will be one letter for every newborn. In the absence of a house, let it have a (sociological) box.",
+            "repeated_words": {
+                "with": 6,
+                "the": 38,
+                "of": 18,
+                "between": 3,
+                "generations": 2,
+                "we": 7,
+                "do": 2,
+                "not": 2,
+                "that": 14,
+                "society": 2,
+                "is": 6,
+                "all": 2,
+                "and": 12,
+                "every": 3,
+                "time": 2,
+                "i": 4,
+                "who": 7,
+                "was": 4,
+                "born": 2,
+                "a": 12,
+                "it": 7,
+                "be": 3,
+                "like": 3,
+                "old": 4,
+                "there": 5,
+                "are": 2,
+                "which": 2,
+                "assume": 2,
+                "arrived": 2,
+                "from": 4,
+                "an": 2,
+                "how": 2,
+                "for": 5,
+                "us": 6,
+                "to": 13,
+                "our": 3,
+                "as": 2,
+                "mishra": 2,
+                "has": 2,
+                "their": 4,
+                "influence": 2,
+                "purpose": 2,
+                "human": 2,
+                "american": 4,
+                "its": 6,
+                "they": 5,
+                "by": 3,
+                "so": 5,
+                "name": 2,
+                "in": 8,
+                "term": 2,
+                "then": 2,
+                "were": 3,
+                "progressives": 2,
+                "given": 2,
+                "have": 4,
+                "been": 2,
+                "beings": 2,
+                "when": 3,
+                "lived": 2,
+                "people": 2,
+                "countries": 2,
+                "day": 2,
+                "letter": 2,
+                "will": 2
+            }
+        },
+        {
+            "title": "Cae la nieve y los corderitos nacen",
+            "translated_title": "The snow falls and the lambs are born",
+            "content": "Portugal votó contra la ultraderecha por el miedo de un pueblo que no es rico ante la perspectiva de una pobreza peor: perder la libertad 1. Marie Descourtieux fue durante muchos años asistente de comunicación en Éditions Métailié. Dejó un perdurable legado en el sector gracias a su dedicación en cuerpo y alma al métier, en el que puso la fuerza de la disciplina adquirida en su formación como bailarina y un extraordinario don para la comprensión de los libros como la gran lectora que es. Hace unos años, dejó el mundo editorial y se hizo cargo del Prix Virginia en el campo de la fotografía, hasta que recientemente pudo asentarse en el espacio de sus sueños. Adquirió una mansión en ruinas en el sur de Francia, la reconstruyó alrededor del horno, la pieza central del edificio, y actualmente dirige un refugio para ar... tistas visuales. Con el nombre de Le Four à Pain, es un proyecto cultural de extraordinaria relevancia. Estoy al tanto de esta gloriosa empresa gracias a que mantenemos correspondencia. La última vez que intercambiamos mensajes, Marie Descourtieux concluía el suyo con una conmovedora declaración, considerando los grandes desafíos ante los que la vida la ha colocado: “Aquí me siento en paz, feliz de vivir en la naturaleza al ritmo de la nieve que cae y de los corderitos que nacen”. 2. “Cae la nieve y los corderitos nacen”, me repetí muchas veces cuando cruzaba la casa a oscuras mientras las tormentas que precedieron a la borrasca Kristin empezaban a azotar Portugal, pero aún tenía ante mis ojos las imágenes de un documental que acababa de ver. ¿Cuántos niños huérfanos, deportados, robados, desaparecidos, expatriados, heridos y muertos, como consecuencia de las guerras, solo en Europa y Oriente Próximo, figuraban en los archivos de Unicef? La cifra era avasalladora. ¿Será que el mundo retrocede o se trata de la naturaleza misma de la vida, irremediable e incorregible? Ante este dilema, la rumana Ana Blandiana esgrime una idea de contrapeso que equilibra poéticamente con cierta ironía. Escribió: “Sé que la pureza no da frutos, / las vírgenes no alumbran criaturas, / así es la gran ley del ultraje, / el tributo que la vida estipula”. Pero había otra razón para cruzar la casa a oscuras. Estábamos en plena campaña electoral, y en la última semana de la primera vuelta, la maquinaria corrosiva funcionaba a pleno pulmón. Eran ocho los candidatos con más posibilidades. Como era de esperar, en el esprint final, las antorchas iluminaron los rincones oscuros de cada uno: supuestas deudas, influencias, avidez de ganancias, mentiras, traiciones, episodios de acoso sexual publicados a última hora, sin posibilidad de verificación, todo ello tocando a rebato en los informativos en horario de máxima audiencia o, peor aún, en comunicaciones de bolsillo. Fuego cruzado. Quien no estaba embarrado ni siquiera existía. En medio del lodo, es poco probable que nadie se fije en quien no está enlodado. A quien no se embarra se le considera un ladino, un disimulador, alguien sin charme que no atrae la atención. Y, en esa condición excepcional, había uno.",
+            "translated_content": "Portugal voted against the extreme right because of the fear of a people who are not rich at the prospect of worse poverty: losing freedom 1. Marie Descourtieux was for many years a communications assistant at Éditions Métailié. She left a lasting legacy in the sector thanks to her dedication of body and soul to the métier, in which she put the strength of the discipline acquired in her training as a dancer and an extraordinary gift for understanding books as the great reader that she is. A few years ago, he left the publishing world and took charge of the Prix Virginia in the field of photography, until recently he was able to settle in the space of his dreams. He acquired a ruined mansion in the south of France, rebuilt it around the furnace, the centerpiece of the building, and currently runs a refuge for visual artists. With the name Le Four à Pain, it is a cultural project of extraordinary relevance. I am aware of this glorious company through correspondence. The last time we exchanged messages, Marie Descourtieux concluded hers with a moving statement, considering the great challenges that life has placed her before: “Here I feel at peace, happy to live in nature to the rhythm of the snow that falls and the lambs that are born.” 2. “The snow falls and the lambs are born,” I told myself many times as I walked through the dark house while the storms that preceded Storm Kristin began to hit Portugal, but I still had before my eyes the images of a documentary I had just watched. How many orphaned, deported, stolen, missing, expatriated, wounded and dead children, as a result of wars, only in Europe and the Middle East, were included in the Unicef ​​files? The figure was overwhelming. Could it be that the world is going backwards or is it the very nature of life, irremediable and incorrigible? Faced with this dilemma, the Romanian Ana Blandiana uses an idea of ​​counterweight that she poetically balances with a certain irony. He wrote: “I know that purity does not bear fruit, / virgins do not give birth to creatures, / such is the great law of outrage, / the tribute that life stipulates.” But there was another reason for crossing the dark house. We were in the middle of the electoral campaign, and in the last week of the first round, the corrosive machinery was working at full capacity. There were eight candidates with the most possibilities. As expected, in the final sprint, the torches illuminated the dark corners of each one: alleged debts, influences, greed for profit, lies, betrayals, episodes of sexual harassment published at the last minute, without the possibility of verification, all of this playing out in prime time news or, worse still, in pocket communications. Cross-fire. Whoever wasn't muddy didn't even exist. In the middle of the mud, it is unlikely that anyone will notice someone who is not in the mud. Anyone who doesn't get muddy is considered a sly, a dissimulator, someone without charm who doesn't attract attention. And, in that exceptional condition, there was one.",
+            "repeated_words": {
+                "portugal": 2,
+                "the": 50,
+                "of": 25,
+                "a": 14,
+                "who": 4,
+                "are": 3,
+                "not": 4,
+                "at": 5,
+                "worse": 2,
+                "marie": 2,
+                "descourtieux": 2,
+                "was": 6,
+                "for": 5,
+                "many": 3,
+                "years": 2,
+                "communications": 2,
+                "she": 4,
+                "left": 2,
+                "in": 17,
+                "to": 7,
+                "her": 3,
+                "and": 11,
+                "acquired": 2,
+                "as": 5,
+                "an": 2,
+                "extraordinary": 2,
+                "great": 3,
+                "that": 11,
+                "is": 8,
+                "he": 4,
+                "world": 2,
+                "it": 5,
+                "with": 5,
+                "i": 7,
+                "this": 3,
+                "through": 2,
+                "last": 3,
+                "time": 2,
+                "we": 2,
+                "life": 3,
+                "before": 2,
+                "nature": 2,
+                "snow": 2,
+                "falls": 2,
+                "lambs": 2,
+                "born": 2,
+                "dark": 3,
+                "house": 2,
+                "but": 2,
+                "still": 2,
+                "had": 2,
+                "middle": 3,
+                "were": 3,
+                "or": 2,
+                "there": 3,
+                "one": 2,
+                "without": 2,
+                "t": 4,
+                "muddy": 2,
+                "mud": 2,
+                "anyone": 2,
+                "someone": 2,
+                "doesn": 2
+            }
+        }
+    ]
+}

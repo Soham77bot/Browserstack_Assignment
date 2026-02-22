@@ -1,0 +1,24 @@
+BASE_URL = "https://elpais.com"
+OPINION_SECTION = "https://elpais.com/opinion/"
+
+NUM_ARTICLES = 5
+
+HEADLESS = False  # change to True later
+
+
+BROWSERSTACK_ACCESS_KEY = "eswHZxTxQxDSKSyx4uhB"
+BROWSERSTACK_USERNAME = "sohamshivpuje_mMOpY2"
+
+
+# BROWSERSTACK_USERNAME = "sohamshivpuje_IObhXo"
+# BROWSERSTACK_ACCESS_KEY = "Rb6TueGi3J9o2kBTz4J4"
+
+import os
+
+USE_BROWSERSTACK = True  # switch to True now
+
+BROWSERSTACK_USERNAME = os.getenv("BROWSERSTACK_USERNAME")
+BROWSERSTACK_ACCESS_KEY = os.getenv("BROWSERSTACK_ACCESS_KEY")
+
+# BROWSERSTACK_USERNAME = os.getenv("BROWSERSTACK_USERNAME")
+# BROWSERSTACK_ACCESS_KEY = os.getenv("BROWSERSTACK_ACCESS_KEY")
